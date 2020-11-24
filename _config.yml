@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Kelinghong's Blog
+title: Hexo
 subtitle: ''
-description: '好好看，好好学。'
-keywords: '柯凌宏;JavaScript;es6;nodejs'
-author: ryan.ke
-language: zh-CN
-timezone: Asia/Shanghai
+description: ''
+keywords:
+author: John Doe
+language: en
+timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
@@ -46,11 +46,11 @@ relative_link: false
 future: true
 highlight:
   enable: true
-  line_number: false
+  line_number: true
   auto_detect: false
   tab_replace: ''
-  wrap: false
-  hljs: true
+  wrap: true
+  hljs: false
 prismjs:
   enable: false
   preprocess: true
@@ -98,21 +98,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: matery
+theme: fluid
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-search:
-  path: search.xml
-  field: post
-  content: true
-
-# 代码高亮插件
-# prism_plugin:
-#   mode: 'realtime'    # realtime/preprocess
-#   theme: 'default'
-#   line_number: true    # default false
-#   custom_css: './css/prism-vs.css'     # optional
