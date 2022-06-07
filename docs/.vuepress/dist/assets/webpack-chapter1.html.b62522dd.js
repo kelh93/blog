@@ -1,0 +1,1 @@
+import{_ as a,o as c,c as t,a as e,b as r}from"./app.0ac97959.js";const o={},s=e("h1",{id:"webpack5",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#webpack5","aria-hidden":"true"},"#"),r(" webpack5")],-1),_=[s];function n(d,h){return c(),t("div",null,_)}var p=a(o,[["render",n],["__file","webpack-chapter1.html.vue"]]);export{p as default};

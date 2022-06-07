@@ -1,0 +1,1 @@
+const e={key:"v-574f425e",path:"/workflow/webpack-chapter1.html",title:"webpack5",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"workflow/webpack-chapter1.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-5fde1312",path:"/stateManage/",title:"\u72B6\u6001\u7BA1\u7406",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Vuex",slug:"vuex",children:[]},{level:2,title:"Redux",slug:"redux",children:[]},{level:2,title:"Mobox",slug:"mobox",children:[]}],git:{},filePathRelative:"stateManage/index.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-00d40066",path:"/javascript/async.html",title:"\u5F02\u6B65\u7F16\u7A0B",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"javascript/async.md"};export{t as data};

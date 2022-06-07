@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as r,a as e,b as o}from"./app.0ac97959.js";const n={},c=e("h1",{id:"network",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#network","aria-hidden":"true"},"#"),o(" NetWork")],-1),s=[c];function _(d,i){return a(),r("div",null,s)}var l=t(n,[["render",_],["__file","index.html.vue"]]);export{l as default};
